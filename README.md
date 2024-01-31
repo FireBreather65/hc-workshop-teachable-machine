@@ -1,5 +1,5 @@
 # Teachable Machine 🤖
-![Demo video](https://github.com/FireBreather65/hc-workshop-teachable-machine/assets/76709163/55a81968-044a-405c-900e-0e9394278b4e)
+https://github.com/FireBreather65/hc-workshop-teachable-machine/assets/76709163/55a81968-044a-405c-900e-0e9394278b4e
 
 **[You can find the live website here.](https://firebreather65.github.io/hc-workshop-teachable-machine/)**
 
